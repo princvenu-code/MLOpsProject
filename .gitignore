@@ -126,6 +126,7 @@ celerybeat.pid
 .env
 .venv
 .mlopsapp
+artifact/
 env/
 venv/
 mlopsapp/
