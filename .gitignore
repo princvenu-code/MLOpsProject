@@ -131,6 +131,7 @@ mlopsapp/
 ENV/
 env.bak/
 venv.bak/
+mlopsapp.bak/
 
 # Spyder project settings
 .spyderproject
